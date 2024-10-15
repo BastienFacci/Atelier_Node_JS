@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "4 personnes en couleur",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BastienFacci/Atelier_Node_JS.git"
+  },
+  "author": "Bastien Angelica Lise",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BastienFacci/Atelier_Node_JS/issues"
+  },
+  "homepage": "https://github.com/BastienFacci/Atelier_Node_JS#readme",
+  "type":"module"
+}
